@@ -1,5 +1,3 @@
-
-
 <html>
 <head>
     <title>Jayasri's Sample Website</title>
